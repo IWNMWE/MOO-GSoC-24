@@ -12,7 +12,6 @@ Here are the outcomes achieved by the optimizers and test suites I developed thi
 |:-------------------------:|:-------------------------:|:-------------------------:|
 | NSGA3 On DTLZ1 | AGEMOEA On Fleming | AGEMOEA on ZDT3 |
 | ![MOEAD On MAF1](src/MAF1.png) | ![MOEAD On MAF3](src/MAF3.png)
-|:-------------------------:|:-------------------------:|
 | MOEAD On MAF1 | MOEAD On MAF3
 
 ## Project Overview.
