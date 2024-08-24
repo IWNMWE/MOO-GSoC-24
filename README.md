@@ -9,7 +9,7 @@
 
 Here are the outcomes achieved by the optimizers and test suites I developed this summer.
 | ![NSGA3 On DTLZ1](src/dtlz1.png) | ![AGEMOEA On Fleming](src/fleming.png) | ![AGEMOEA On ZDT3](src/ZDT3.png) 
-|:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:|
+|:-------------------------:|:-------------------------:|:-------------------------:|
 | NSGA3 On DTLZ1 | AGEMOEA On Fleming | AGEMOEA on ZDT3 |
 | ![MOEAD On MAF1](src/MAF1.png) | ![MOEAD On MAF3](src/MAF3.png)
 |:-------------------------:|:-------------------------:|
