@@ -40,6 +40,15 @@ Simulated Binary Crossover (SBX) has been implemented as a part of the AGEMOEA i
 
 NSGA-3 has been implemented but needs to undergo testing and further investigation regarding its slow convergence to the true Pareto front.
 
+Here is the list of PRs (both open & closed) that I created during GSoC:
+
+|Pull Request Title|Status|
+|---|---|
+| Adding AGEMOEA and IGD [#399](https://github.com/mlpack/ensmallen/pull/399)|:purple_square: Merged|
+| AGEMOEA for Convex Fronts [#407](https://github.com/mlpack/ensmallen/pull/407)|:purple_square: Merged|
+| Adding the MAF Benchmark problems [#402](https://github.com/mlpack/ensmallen/pull/402)|:purple_square: Open|
+| Adding NSGA3 [#406](https://github.com/mlpack/ensmallen/pull/406)|:purple_square: Open|
+
 
 ## Challenges
 There were serveral challenges faced throughout all stages of this project: 
