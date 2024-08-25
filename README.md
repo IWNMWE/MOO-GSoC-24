@@ -46,8 +46,8 @@ Here is the list of PRs (both open & closed) that I created during GSoC:
 |---|---|
 | Adding AGEMOEA and IGD [#399](https://github.com/mlpack/ensmallen/pull/399)|:purple_square: Merged|
 | AGEMOEA for Convex Fronts [#407](https://github.com/mlpack/ensmallen/pull/407)|:purple_square: Merged|
-| Adding the MAF Benchmark problems [#402](https://github.com/mlpack/ensmallen/pull/402)|:purple_square: Open|
-| Adding NSGA3 [#406](https://github.com/mlpack/ensmallen/pull/406)|:purple_square: Open|
+| Adding the MAF Benchmark problems [#402](https://github.com/mlpack/ensmallen/pull/402)|:green_square: Open|
+| Adding NSGA3 [#406](https://github.com/mlpack/ensmallen/pull/406)|:green_square: Open|
 
 
 ## Challenges
